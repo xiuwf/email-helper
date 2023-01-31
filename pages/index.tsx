@@ -16,7 +16,7 @@ const Home: NextPage = () => {
   const [desc, setDesc] = useState("");
   const [vibe, setVibe] = useState<VibeType>("English");
   const [generatedDescs, setGeneratedDescs] = useState<string>("");
-  const defultDesc = 'Tell David to have a meeting next Monday morning from Hudson.'
+  const defultDesc = 'Tell Jun to have a meeting next Monday morning from Kai.'
   console.log("Streamed response: ", {generatedDescs});
   let promptObj = {
     'English': "UK English",
