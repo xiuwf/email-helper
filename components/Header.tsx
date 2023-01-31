@@ -21,7 +21,7 @@ export default function Header() {
       </div>
       
       <a
-        href="https://twitter.com/shengxj1"
+        href="https://twitter.com/"
         target="_blank"
         rel="noreferrer"
       >
