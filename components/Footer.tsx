@@ -34,9 +34,9 @@ export default function Footer() {
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://twitter.com/shengxj1"
+          href="https://twitter.com"
           className="group"
-          aria-label="Shengxj on Twitter"
+          aria-label="Twitter"
         >
           <svg
             aria-hidden="true"
@@ -46,9 +46,9 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/shengxinjing/email-helper"
+          href="https://github.com/"
           className="group"
-          aria-label="Shengxj on GitHub"
+          aria-label="github"
         >
           <svg
             aria-hidden="true"
